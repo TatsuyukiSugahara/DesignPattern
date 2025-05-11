@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaAdapter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\MediaAdapter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\VlcPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\VlcPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Mp4Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Mp4Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\AdvancedMediaPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\AdvancedMediaPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\MediaPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Adapter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Adapter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaAdapter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\MediaAdapter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Mp4Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Mp4Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\VlcPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44BEFE53-AF86-4AC2-9A53-5BFD1899D0B2}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\VlcPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VlcPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\VlcPlayer.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\VlcPlayer.cpp",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\VlcPlayer.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\VlcPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T13:36:59.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mp4Player.cpp",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Mp4Player.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Mp4Player.cpp",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Mp4Player.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\Mp4Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T13:36:58.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediaAdapter.h",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaAdapter.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\MediaAdapter.h",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaAdapter.h",
+              "RelativeToolTip": "ConsoleApplication2\\MediaAdapter.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T13:35:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mp4Player.h",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Mp4Player.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Mp4Player.h",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Mp4Player.h",
+              "RelativeToolTip": "ConsoleApplication2\\Mp4Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T13:34:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MediaPlayer.h",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaPlayer.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\MediaPlayer.h",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaPlayer.h",
+              "RelativeToolTip": "ConsoleApplication2\\MediaPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T13:34:38.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdvancedMediaPlayer.h",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\AdvancedMediaPlayer.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\AdvancedMediaPlayer.h",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\AdvancedMediaPlayer.h",
+              "RelativeToolTip": "ConsoleApplication2\\AdvancedMediaPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T13:34:36.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MediaAdapter.cpp",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaAdapter.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\MediaAdapter.cpp",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\MediaAdapter.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\MediaAdapter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T13:34:07.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VlcPlayer.h",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\VlcPlayer.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\VlcPlayer.h",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\VlcPlayer.h",
+              "RelativeToolTip": "ConsoleApplication2\\VlcPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T13:33:30.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adapter.cpp",
+              "DocumentMoniker": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Adapter.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Adapter.cpp",
+              "ToolTip": "C:\\Users\\t-sugahara\\Documents\\\u6388\u696D\u8CC7\u6599\\\u30C7\u30B6\u30A4\u30F3\u30D1\u30BF\u30FC\u30F3\u2160\\03\\Adapter\\ConsoleApplication2\\ConsoleApplication2\\Adapter.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\Adapter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T13:33:10.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

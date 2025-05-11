@@ -1,0 +1,42 @@
+
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  background: linear-gradient(to bottom right, #fff8f0, #fce4ec);
+  color: #4b0082;
+  padding: 2rem;
+  line-height: 1.9;
+}
+
+h1, h2, h3 {
+  color: #800080;
+  border-bottom: 1px dashed #dda0dd;
+  padding-bottom: 0.4em;
+  text-shadow: 1px 1px 1px #ffc0cb;
+}
+
+code, pre {
+  background-color: #fef6fb;
+  border: 1px solid #dda0dd;
+  border-radius: 5px;
+  padding: 1em;
+  color: #6a0dad;
+  font-size: 0.95em;
+}
+
+table {
+  background-color: #fff0f5;
+  color: #6a0dad;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #f5c2e7;
+  padding: 0.6em;
+  text-align: center;
+}
+
+a {
+  color: #ba55d3;
+  text-decoration: underline wavy #f5c2e7;
+}

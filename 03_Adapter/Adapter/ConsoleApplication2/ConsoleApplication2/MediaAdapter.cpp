@@ -1,0 +1,1 @@
+#include "MediaAdapter.h"
