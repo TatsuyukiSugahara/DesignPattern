@@ -1,0 +1,8 @@
+body {
+  font-family: "Georgia", serif;
+  background: linear-gradient(to bottom, #ffeef0, #fff0f5);
+  color: #660033;
+  padding: 2em;
+  line-height: 1.8;
+}
+...
